@@ -1,5 +1,5 @@
 httpcomponents :<br>
-   https://issues.apache.org/jira/browse/HTTPCORE-486 <br>
+        https://issues.apache.org/jira/browse/HTTPCORE-486 <br>
 	https://issues.apache.org/jira/browse/HTTPCORE-488 <br>
 	https://issues.apache.org/jira/browse/HTTPCORE-489 <br>
 	https://issues.apache.org/jira/browse/HTTPCORE-484 <br>
